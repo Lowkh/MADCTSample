@@ -1,0 +1,19 @@
+sg/edu/np/mad/mad2021/ModuleAdapter.java
+ sg.edu.np.mad.mad2021.ModuleAdapter
+sg/edu/np/mad/mad2021/MainActivity.java
+ sg.edu.np.mad.mad2021.MainActivity
+ sg.edu.np.mad.mad2021.MainActivity$1
+sg/edu/np/mad/mad2021/InterestViewHolder.java
+ sg.edu.np.mad.mad2021.InterestViewHolder
+sg/edu/np/mad/mad2021/ModuleViewHolder.java
+ sg.edu.np.mad.mad2021.ModuleViewHolder
+sg/edu/np/mad/mad2021/AreaOfInterest.java
+ sg.edu.np.mad.mad2021.AreaOfInterest
+sg/edu/np/mad/mad2021/DBHandler.java
+ sg.edu.np.mad.mad2021.DBHandler
+sg/edu/np/mad/mad2021/InterestAdapter.java
+ sg.edu.np.mad.mad2021.InterestAdapter
+sg/edu/np/mad/mad2021/CatalogueActivity.java
+ sg.edu.np.mad.mad2021.CatalogueActivity
+sg/edu/np/mad/mad2021/BuildConfig.java
+ sg.edu.np.mad.mad2021.BuildConfig

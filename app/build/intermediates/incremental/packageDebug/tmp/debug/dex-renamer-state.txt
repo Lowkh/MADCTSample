@@ -1,0 +1,4 @@
+#Thu Jul 01 20:03:21 SGT 2021
+base.0=C\:\\Projects\\Android\\MADCTSample\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

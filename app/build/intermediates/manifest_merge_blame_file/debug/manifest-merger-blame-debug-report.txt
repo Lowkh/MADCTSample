@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="sg.edu.np.mad.mad2021"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:5:5-24:19
+12        android:allowBackup="true"
+12-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\DaXiong\.gradle\caches\transforms-2\files-2.1\1602505273d43f41d2f450ba7fa6ad4f\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/Theme.MAD2021" >
+20-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:11:9-45
+21        <activity
+21-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:12:9-14:50
+22            android:name="sg.edu.np.mad.mad2021.CatalogueActivity"
+22-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:13:13-46
+23            android:screenOrientation="sensor" />
+23-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:14:13-47
+24        <activity
+24-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:15:9-23:20
+25            android:name="sg.edu.np.mad.mad2021.MainActivity"
+25-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:16:13-41
+26            android:screenOrientation="sensor" >
+26-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:17:13-47
+27            <intent-filter>
+27-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:18:13-22:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:19:17-69
+28-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:19:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:21:17-77
+30-->C:\Projects\Android\MADCTSample\app\src\main\AndroidManifest.xml:21:27-74
+31            </intent-filter>
+32        </activity>
+33    </application>
+34
+35</manifest>
